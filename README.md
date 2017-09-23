@@ -2,7 +2,7 @@
 
 A Naive Bayes Classifier, written from scratch, without using dedicated ML libraries like scikit-learn, to classify movie reviews from IMDB as positive or negative. This is part of my submission for 10-601B, Instroduction to Machine Learning at CMU. 
 
-After cloning or downloading and extracting, run hw_script.py to train/test or modify the classier. 
+After cloning or downloading and extracting, run hw_script.py to train/test or modify the classifier. 
 
 ## Guide to Variables
 
